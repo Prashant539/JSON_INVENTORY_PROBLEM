@@ -1,0 +1,27 @@
+[
+  {
+    "StockName": "Google",
+    "StockPrice": 100.0,
+    "NoOfShares": 1
+  },
+  {
+    "StockName": "Amazon",
+    "StockPrice": 100.0,
+    "NoOfShares": 100
+  },
+  {
+    "StockName": "Flipkart",
+    "StockPrice": 100.0,
+    "NoOfShares": 100
+  },
+  {
+    "StockName": "Myntra",
+    "StockPrice": 100.0,
+    "NoOfShares": 100
+  },
+  {
+    "StockName": "SoulStore",
+    "StockPrice": 100.0,
+    "NoOfShares": 100
+  }
+]
